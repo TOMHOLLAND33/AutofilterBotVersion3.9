@@ -27,7 +27,7 @@ HELP = """
 ➥ /logger  Get Logs
 ➥ /delete Delete File From Database
 
-<b>[➡️ JOIN CHANNEL FOR MORE UPDATES☺️]https://t.me/NM_NEWMOVIESALWAYSHD()
+<b>[➡️ JOIN CHANNEL FOR MORE UPDATES☺️]https://t.me/NM_NEWMOVIESALWAYSHD)
 
 @NM_LINKZ></b>
 """
