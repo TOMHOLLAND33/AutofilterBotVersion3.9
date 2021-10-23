@@ -27,21 +27,21 @@ HELP = """
 ➥ /logger  Get Logs
 ➥ /delete Delete File From Database
 
-<b>[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
+<b>[➡️ JOIN CHANNEL FOR MORE UPDATES☺️]https://t.me/NM_NEWMOVIESALWAYSHD()
 
-@Mo_Tech_YT></b>
+@NM_LINKZ></b>
 """
 
 ABOUT = """
-➥ Name : Auto Filter With IMDB
+➥ 𝗡𝗔𝗠𝗘 : Auto Filter VERSION 3
     
-➥ Credits : Subin
+➥ 𝗖𝗥𝗘𝗔𝗧𝗢𝗥: [TOM HOLLAND](t. me/TOM_HOLLA_ND)
 
-➥ Editing : [Muhammed RK](t.me/Mrk_YT)
+➥ 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗘𝗥 : [LOKI LAUFESON](t.me/Loki_Lau_feyson)
 
-➥ Language : Python3
+➥ 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ 𝗟𝗜𝗕𝗥𝗔𝗥𝗬 : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ 𝗦𝗢𝗨𝗥𝗖𝗘 : [CLICK HERE](https://t.me/chilapolinnukittiyalo)
 """
