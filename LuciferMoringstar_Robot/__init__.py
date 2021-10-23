@@ -35,7 +35,7 @@ HELP = """
 ABOUT = """
 ➥ 𝗡𝗔𝗠𝗘 : Auto Filter VERSION 3
     
-➥ 𝗖𝗥𝗘𝗔𝗧𝗢𝗥: [TOM HOLLAND](t. me/TOM_HOLLA_ND)
+➥ 𝗖𝗥𝗘𝗔𝗧𝗢𝗥: [@TOM_HOLLA_ND]
 
 ➥ 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗘𝗥 : [LOKI LAUFESON](t.me/Loki_Lau_feyson)
 
