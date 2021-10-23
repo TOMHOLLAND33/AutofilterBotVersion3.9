@@ -292,7 +292,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton('⚜️ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ⚜️', url='t.me/NM_NEWMOVIESALWAYSHD'),
                 InlineKeyboardButton('👨‍💻 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 👨‍💻', url="https://t.me/chilapolinnukittiyalo")
                 ],[
-                InlineKeyboardButton('💫Deploy Video💫', url=f'{TUTORIAL}')
+                InlineKeyboardButton('⚜️ 𝗚𝗥𝗢𝗨𝗣 ⚜️', url=f'https://t.me/newmoviesgrouup')
                 ]]
             await query.message.edit(text=f"{HELP}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
