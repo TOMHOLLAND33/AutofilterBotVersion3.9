@@ -92,7 +92,7 @@ def get_reply_markup(query):
         InlineKeyboardButton('⚜️ 𝗚𝗥𝗢𝗨𝗣 ⚜️', url='t.me/newmoviesgrouup'),
         InlineKeyboardButton('⚜️ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ⚜️', url='t.me/NM_NEWMOVIESALWAYSHD')
         ],[
-        InlineKeyboardButton('👨‍💻 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 👨‍💻', url=f'https://t.me/chilapolinnukittiyalo')
+        InlineKeyboardButton('👨‍💻 𝗠𝗬 𝗗𝗘𝗩 👨‍💻', url=f'https://t.me/TOM_HOLLA_ND')
         ],[
         InlineKeyboardButton('🔍 Search again 🔎', switch_inline_query_current_chat=query)
         ]]
