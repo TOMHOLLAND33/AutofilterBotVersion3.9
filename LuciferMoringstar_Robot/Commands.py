@@ -115,8 +115,7 @@ async def start(bot, message):
         await update.reply_photo(
         "https://telegra.ph/file/a10d544a38b182ea33050.jpg",
         caption=START_TEXT.format(update.from_user.first_name),
-        reply_markup=reply_markup,
-    )
+        reply_markup=reply_markup(
                 [
                     [
                         InlineKeyboardButton
