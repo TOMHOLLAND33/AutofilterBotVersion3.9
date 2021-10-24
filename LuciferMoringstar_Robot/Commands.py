@@ -121,7 +121,7 @@ async def start(bot, message):
                     [
                         InlineKeyboardButton
                             (
-                                "🔎Search Here", switch_inline_query_current_chat=''
+                                "🔎𝗦𝗘𝗔𝗥𝗖𝗛 𝗛𝗘𝗥𝗘", switch_inline_query_current_chat=''
                             ),
                         InlineKeyboardButton
                             (
@@ -131,11 +131,11 @@ async def start(bot, message):
                     [
                         InlineKeyboardButton
                             (
-                                "🤔Help", callback_data="help"
+                                "🤔𝗛𝗘𝗟𝗣", callback_data="help"
                             ),
                         InlineKeyboardButton
                             (
-                                "About🤠", callback_data="about"
+                                "𝗔𝗕𝗢𝗨𝗧🤠", callback_data="about"
                             )
                     ]
                 ]
