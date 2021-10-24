@@ -112,10 +112,11 @@ async def start(bot, message):
             )
         )
     else:
-        await message.reply_photo(
-        "https://telegra.ph/file/a10d544a38b182ea33050.jpg",
-        caption=START_TEXT.format(update.from_user.first_name),
-        reply_markup=reply_markup(
+        await message.reply_text(
+            START_MSG.format(message.from_user.first_name),
+            parse_mode="Markdown",
+            disable_web_page_preview=True,
+            reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton
