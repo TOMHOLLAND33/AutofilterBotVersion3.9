@@ -290,7 +290,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "help":
             buttons = [[
                 InlineKeyboardButton('⚜️ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ⚜️', url='t.me/NM_NEWMOVIESALWAYSHD'),
-                InlineKeyboardButton('👨‍💻 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 👨‍💻', url="https://t.me/chilapolinnukittiyalo")
+                InlineKeyboardButton('👨‍💻 𝗠𝗬 𝗗𝗘𝗩 👨‍💻', url="https://t.me/TOM_HOLLA_ND")
                 ],[
                 InlineKeyboardButton('⚜️ 𝗚𝗥𝗢𝗨𝗣 ⚜️', url=f'https://t.me/newmoviesgrouup')
                 ]]
@@ -300,7 +300,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             buttons = [
                 [
                     InlineKeyboardButton('⚜️ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ⚜️', url='t.me/NM_NEWMOVIESALWAYSHD'),
-                    InlineKeyboardButton('👨‍💻 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 👨‍💻', url=f'https://t.me/chilapolinnukittiyalo')
+                    InlineKeyboardButton('👨‍💻 𝗠𝗬 𝗗𝗘𝗩 👨‍💻', url=f'https://t.me/TOM_HOLLA_ND')
                 ]
                 ]
             await query.message.edit(text=f"{ABOUT}".format(TUTORIAL), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
@@ -323,7 +323,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('⚜️ 𝗚𝗥𝗢𝗨𝗣 ⚜️', url=f'https://t.me/newmoviesgrouup')
+                        InlineKeyboardButton('⚜️ 𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 ⚜️', url=f'https://t.me/newmoviesgrouup')
                     ]
                     ]
                 
@@ -354,7 +354,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{title}"
                 buttons = [
                     [
-                        InlineKeyboardButton('⚜️ 𝗚𝗥𝗢𝗨𝗣 ⚜️', url=f'https://t.me/newmoviesgrouup')
+                        InlineKeyboardButton('⚜️ 𝗝𝗢𝗜𝗡 𝗚𝗥𝗢𝗨𝗣 ⚜️', url=f'https://t.me/newmoviesgrouup')
                     ]
                     ]
                 
